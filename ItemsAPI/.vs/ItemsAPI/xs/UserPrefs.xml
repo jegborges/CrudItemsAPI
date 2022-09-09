@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{AF7CAD29-FEA5-4765-9C88-A8F294BCF472}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ItemsAPI/Controllers/CrudItemsController.cs">
+    <Files>
+      <File FileName="ItemsAPI/Models/CrudItem.cs" Line="9" Column="27" />
+      <File FileName="ItemsAPI/Controllers/CrudItemsController.cs" Line="82" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ItemsAPI" expanded="True">
+            <Node name="ItemsAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="CrudItemsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ItemsAPI PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
